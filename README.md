@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I’m currently learning how to use Github, and creating my own Homeassistant-
+
+
 <!--
 **Skarmazh/Skarmazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
